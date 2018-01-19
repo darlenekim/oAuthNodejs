@@ -84,10 +84,3 @@ bcrypt.compare(req.body.password, hashedPassword, function(error, result) {
 	// result will be a bool
 })
 ```
-
-# Postgres Install
-
-- Download Postgres app
-- Download Postico
-- run `sequelize db:migrate` to run existing migrations.
-- run `sequelize migration:create` to create a new migration.
