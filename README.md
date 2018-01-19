@@ -13,8 +13,8 @@ Watch your nodemon.
 
 Run in your Command Line 
 
-*npm install
-*npm start
+* npm install
+* npm start
 * nodemon
 * mongod -> then open Robo3T -> connect to your localhost:21017 -> authboilerplate -> collections -> users -> index
 * gulp watch
