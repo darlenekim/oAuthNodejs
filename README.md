@@ -1,11 +1,18 @@
 # Secure oAuthNodejs 
 # Includes AngularJS, Javascript, Gulp & MongoDB(Robo 3T) 
 
-TO GET STARTED
-Requirers 3 Command Lines to be open separately, but from the same folder. 
+`TO GET STARTED`
+Requires 3 Command Lines to be open separately, but from the same folder. 
 Once Mongo & Gulp are running, just let them be in the background.
 Watch your nodemon. 
 
+`Missing Files`
+- NodeModules
+- .ENV
+- .GIT
+
+*npm install*
+*npm start*
 * nodemon
 * mongod -> then open Robo3T -> connect to your localhost:21017 -> authboilerplate -> collections -> users -> index
 * gulp watch
